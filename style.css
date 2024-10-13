@@ -83,8 +83,8 @@ ul li:hover .dropdown {
 .child{
 	color:white;
 	border-radius:30px;
-	height:100%;
-	width:30%;
+	height:50%;
+	width:40%;
 	background-color:brown/*white*/;
 	border:/*1px solid black;*/	
 }
