@@ -51,7 +51,7 @@ ul li:hover .dropdown {
 	border-radius:10px;
 	Color:black;
 	height:40px;
-	width:100px;
+	width:122px;
 	cursor:pointer;
 	border:none;
 	font-weight:bold;
@@ -83,10 +83,10 @@ ul li:hover .dropdown {
 .child{
 	color:white;
 	border-radius:30px;
-	height:50%;
-	width:40%;
+	height:100%;
+	width:30%;
 	background-color:brown/*white*/;
-	border:1px solid black;	
+	border:/*1px solid black;*/	
 }
 h2{
 	text-align:center;
@@ -139,7 +139,7 @@ a{
 }
 .login{
 	width:60%;
-	height:%;
+	height:10%;
 	border:none;
 	background-color:black;
 	border-radius:5px;
