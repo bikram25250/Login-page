@@ -74,7 +74,7 @@ ul li:hover .dropdown {
 .container{
 	margin-top:60px;
     background-color:/*#f2f2f2*/brown;
-	/*flex-wrap:wrap;*/
+	flex-wrap:wrap;
 	height:60%;
 	width:100%;
 	display:flex;
@@ -86,7 +86,7 @@ ul li:hover .dropdown {
 	height:50%;
 	width:40%;
 	background-color:brown/*white*/;
-	border:/*1px solid black;*/	
+	border:1px solid black;	
 }
 h2{
 	text-align:center;
