@@ -50,23 +50,26 @@ ul li:hover .dropdown {
 	font-size:20px;
 	border-radius:10px;
 	Color:black;
-	height:40px;
+	height:28px;
 	width:122px;
 	cursor:pointer;
 	border:none;
 	font-weight:bold;
 	background-color:rgba(246,45,78);
 }
+.button:hover{
+	background-color:green;
+}
 .weblogo{
-	height:50px;
-	width:50px;
+	height:54px;
+	width:51px;
 }
 
  /* part of all p (peragraph) */
 .p{
 	 font-size:30px;
 	 color:white;
-	 width:70%;
+	 width:60%;
 	 cursor:pointer;
 	 font-family:monospace;
 }
