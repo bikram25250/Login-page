@@ -36,11 +36,7 @@ background:black;
 position:absolute;
 display:none;
 text-align:center;
- }
- /* part of hover */
-ul li a:hover {
- background:#32312f;
- }
+}
  /* part of ul class name (Languages)*/
 ul li:hover .dropdown {
  display:block;
