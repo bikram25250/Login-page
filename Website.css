@@ -75,7 +75,7 @@ button{
  p{
 	 font-size:30px;
 	 color:white;
-	 width:60%;
+	 width:70%;
 	 cursor:pointer;
 }
 /* part of image div class name (banner)*/
@@ -160,6 +160,7 @@ a{
 	margin-left:8px;
 	color:black;
 	font-size:15px;
+	width:60%;
 }
 .wikepidea{
 	color:blue;
